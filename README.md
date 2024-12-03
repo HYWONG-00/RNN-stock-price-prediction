@@ -9,4 +9,6 @@ Main objective:
 Results :
 - All RNN models were tested with 60-day windows and the loss function, mean squared error were used across the experiment. Overall, VanillaRNN with 60-day windows had best accuracy (R-squared = 0.66) compared to LSTM (R-squared = 0.63)  and GRU (R-squared = 0.55).
 
+- Report: https://drive.google.com/file/d/1PiamDoeW2USeGUzgyMEAiVbKC_3ECoXG/view?usp=sharing
+
 - Dataset can be found here: https://www.kaggle.com/datasets/rahulsah06/gooogle-stock-price
